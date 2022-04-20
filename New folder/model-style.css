@@ -1,0 +1,35 @@
+body {
+
+	background-image: url(logo3.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+b{
+	color: white;
+
+;
+	font-size: 300% ;
+}
+summary{
+
+	border-style: solid;
+	border-radius: 50px;
+	padding: 40px;
+	margin: 50px;
+
+}
+p{
+	width:100% ; height: 100% ;
+font-size: 49px;
+color:  
+ #8585ad
+
+
+
+
+;
+text-align: center;
+text-indent: 20px;
+overflow-x: hidden;
+}

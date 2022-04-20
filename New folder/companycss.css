@@ -1,0 +1,21 @@
+body{ 
+background-image: url(logo4.jpg);
+background-size: 60% 30%;
+ }
+ h1{
+
+ 	text-align: center;
+ 	color:   purple;
+ 	font-size: 3rem;
+;
+ }
+ h3{	text-align: center;
+ 	color: white
+
+; }
+ li{
+ 	text-align: left;
+ 	color: #ff4d4d
+;
+
+ }
